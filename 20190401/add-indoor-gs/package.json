@@ -17,7 +17,7 @@
     "source-map-support": "^0.5.10"
   },
   "devDependencies": {
-    "electron": "4.0.1",
+    "electron": "35.7.5",
     "electron-builder": "^20.39.0",
     "electron-webpack": "^2.6.2",
     "foreman": "^3.0.1",
